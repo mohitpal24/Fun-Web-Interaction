@@ -42,8 +42,10 @@ The layout automatically adjusts for smaller screens like mobile phones and tabl
 
 ## 📸 Screenshot
 
-![Screenshot](Screenshot 2025-07-18-014358.png)  
+<img width="1270" height="605" alt="Screenshot 2025-07-18 014358" src="https://github.com/user-attachments/assets/e743102a-bf85-4f63-be4d-03f490a0973a" />
 
+
+<img width="792" height="424" alt="Screenshot 2025-07-18 014405" src="https://github.com/user-attachments/assets/8477544a-a783-4232-88cc-a701822112d3" />
 
 ---
 
