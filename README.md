@@ -42,7 +42,7 @@ The layout automatically adjusts for smaller screens like mobile phones and tabl
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)  
+![Screenshot](Screenshot 2025-07-18-014358.png)  
 
 
 ---
