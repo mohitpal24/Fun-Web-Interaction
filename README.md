@@ -43,7 +43,7 @@ The layout automatically adjusts for smaller screens like mobile phones and tabl
 ## 📸 Screenshot
 
 ![Screenshot](screenshot.png)  
-*(Add a screenshot of the app once it’s rendered)*
+
 
 ---
 
